@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kids-weekend-planner/static/css/main.b00f0029.css",
-    "main.js": "/kids-weekend-planner/static/js/main.536cae87.js",
+    "main.js": "/kids-weekend-planner/static/js/main.802df072.js",
     "index.html": "/kids-weekend-planner/index.html",
     "main.b00f0029.css.map": "/kids-weekend-planner/static/css/main.b00f0029.css.map",
-    "main.536cae87.js.map": "/kids-weekend-planner/static/js/main.536cae87.js.map"
+    "main.802df072.js.map": "/kids-weekend-planner/static/js/main.802df072.js.map"
   },
   "entrypoints": [
     "static/css/main.b00f0029.css",
-    "static/js/main.536cae87.js"
+    "static/js/main.802df072.js"
   ]
 }
